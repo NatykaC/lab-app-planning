@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app will be a music app controlled by parents for children. This app will allow an adult to download and create playlists that then can them play for their children. 
 
 #### What is the name of your application?
 
-> APP NAME
+> Children's Music
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,16 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a customer I want to be able to create a playlist.
+> As a customer I want to be able to download a playlist that has already been created.
+> As a customer I want to be able to delete songs/videos from a playlist.
+> As a cutomer I want to be able to choose the genre of music I am downloading.
+> As a customer I want to be able to download both music and music videos.
+> As a customer I want to be able to control the content rating, to be sure it is appropriate per child's age.
+> As a customer I want to be able send the playlists to other devices I or my children may own so they can listen to it there.
+> As a customer I want the adds to be children appropriate if the app does contain adds.
+> As a customer I want to option to pay a small fee to have adds removed if I prefer not to have adds at all.
+> As a customer I want to change the names of playlist that I either created or downloaded.
 
 #### Create a new board
 
@@ -55,7 +64,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Children's Music App](https://trello.com/invite/b/3amSDrTY/ATTI25813acc3b3dee5f7d5308b87e8f578fE620736F/childrens-music-app)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +77,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/jrQ1KjYg)
 
 #### Create one bug card.
 
@@ -86,7 +95,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/fUevcvru)
 
 #### Create one chore card
 
